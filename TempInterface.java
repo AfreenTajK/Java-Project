@@ -1,0 +1,4 @@
+interface TempInterface
+{
+	void TempConverter();
+}
